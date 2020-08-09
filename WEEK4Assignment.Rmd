@@ -1,10 +1,6 @@
 ---
-
-
-
-WEEK 4 ASSIGNMENT ON Prediction Assignment Writeup!!!!
-
-
+title: "Week 4 Assignment: Predicting Exercise Classe from Wearable Devices"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
